@@ -12,7 +12,7 @@
 
 <div align="center">
   <samp style="max-width: 600px; line-height: 1; color: #FFD9F9; font-family: 'Fira Code', monospace; font-size: 13px; display: inline-block; text-align: center;">
-    Hey there! ✨ I’m a student at <strong>Universidad Agraria La Molina</strong> studying <strong>Stats & Informatics</strong>.<br>
+    Hey there! ✨ I’m a student at <strong>Universidad Nacional Agraria La Molina</strong> studying <strong>Stats & Informatics</strong>.<br>
     I’m super into <strong>bioinformatics</strong> and also curious about how data works in <strong>cybersecurity</strong> 💻💖.<br>
     I love working with <strong>Python, RStudio, Linux, Markdown, HTML, Jupyter & Anaconda</strong> and playing around with data to find cool insights!<br>
     I can speak a bit of <strong>English 🇺🇸</strong> and <strong>Portuguese</strong> 🌎 — dreaming of specializing in <strong>Data Science</strong> to make things happen 💕.
