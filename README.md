@@ -8,23 +8,36 @@
 </div>
 
  
+<br>
+
+<div align="center">
+  <samp style="max-width: 600px; line-height: 1; color: #FFD9F9; font-family: 'Fira Code', monospace; font-size: 13px; display: inline-block; text-align: center;">
+    Hey there! ✨ I’m a student at <strong>Universidad Agraria La Molina</strong> studying <strong>Stats & Informatics</strong>.<br>
+    I’m super into <strong>bioinformatics</strong> and also curious about how data works in <strong>cybersecurity</strong> 💻💖.<br>
+    I love working with <strong>Python, RStudio, Linux, Markdown, HTML, Jupyter & Anaconda</strong> and playing around with data to find cool insights!<br>
+    I can speak a bit of <strong>English 🇺🇸</strong> and <strong>Portuguese</strong> 🌎 — dreaming of specializing in <strong>Data Science</strong> to make things happen 💕.
+  </samp>
 </div>
-      
-<br>
-<br>
-      
+
+<br><br>
+
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=losevka&size=30&pause=1000&color=FFD9F9&center=true&width=435&lines=Be+welcome!+%E2%99%A1;I+am+from+Peru!;I'm+studying..;Computational+Statistics%E2%99%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=30&pause=1000&color=FFD9F9&center=true&width=435&lines=Be+welcome!+%E2%99%A1;I+am+from+Peru!;I'm+studying..;Computational+Statistics%E2%99%A1" alt="Typing SVG" />
   </a>
 </div>
+
+
+
+
 
 
 <br>
