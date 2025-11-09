@@ -93,16 +93,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/223gpfnduo7iplhn3dge5h23i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=223gpfnduo7iplhn3dge5h23i&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
-
 
 
 <img width=100% src="https://media.tenor.com/VpWKdp6XoMIAAAAi/cute-cat.gif"/>
